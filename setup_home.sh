@@ -4,4 +4,5 @@
 
 # setup chezmoi
 curl -sfL https://git.io/chezmoi | sh
+~/bin/chezmoi init https://github.com/riccardopinosio/dotfiles.git
 ~/bin/chezmoi apply
