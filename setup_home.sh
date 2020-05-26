@@ -4,5 +4,4 @@
 
 # setup chezmoi
 curl -sfL https://git.io/chezmoi | sh
-# assumes that ~/bin is in the path
-chezmoi apply
+~/bin/chezmoi apply
