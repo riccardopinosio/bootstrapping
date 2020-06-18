@@ -1,5 +1,4 @@
 # setup a window machine using scoop to avoid issues with admin rights
-
 Set-ExecutionPolicy RemoteSigned -scope CurrentUser -Force
 
 # scoop
