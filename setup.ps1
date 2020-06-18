@@ -12,3 +12,4 @@ scoop install miniconda3
 scoop install vscode
 scoop install rstudio
 scoop install firefox
+scoop install chezmoi
