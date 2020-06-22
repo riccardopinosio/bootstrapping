@@ -13,3 +13,6 @@ scoop install vscode
 scoop install rstudio
 scoop install firefox
 scoop install chezmoi
+
+# conda
+conda init powershell
