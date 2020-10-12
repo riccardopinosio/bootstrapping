@@ -3,6 +3,11 @@ Set-ExecutionPolicy RemoteSigned -scope CurrentUser -Force
 
 # scoop
 iwr -useb get.scoop.sh | iex
+
+# we definitely need git
+scoop install git
+
+# we need the extras
 scoop bucket add extras
 scoop bucket add twpayne https://github.com/twpayne/scoop-bucket
 
